@@ -1,0 +1,67 @@
+body {
+  font-family: 'Roboto', sans-serif, Helvetica;
+  font-size: 1.75em;
+  background-image: url("https://crossorigin.me/http://imgsrc.hubblesite.org/hu/db/images/hs-2010-13-e-xlarge_web.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+}
+
+.jumbotron {
+  background-color: rgba(0, 201, 204, 0.5);
+  padding: 40px;
+  box-shadow: 3px 2px 6px black;
+}
+
+#intro {
+  margin-top: 70px;
+}
+
+.second-text {
+  padding: 20px;
+}
+ul.center-block.list-group {
+  list-style-type: square;
+}
+
+.main-bg {
+  padding: 30px;
+}
+
+#secondBg {
+  padding-top: 40px;
+  background-color: rgba(0, 201, 204, 0.5);
+  border-radius: 6px;
+  box-shadow: 3px 2px 6px black;
+}
+
+.kepler {
+  height: 250px;
+  background: #52e0e0;
+  border-radius: 50%;
+  float: left;
+}
+
+.list-group {
+  width: 70%;
+}
+
+blockquote {
+  border: none;
+}
+
+.info {
+  padding: 0 0 20px 0;
+}
+
+a {
+  color: purple;
+}
+
+.footer {
+  background: #009799;
+  padding: 20px 0 10px 0;
+  width: inherit;
+  box-shadow: 3px 2px 6px black;
+  border-radius: 0 0 6px 6px;
+}
