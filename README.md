@@ -6,6 +6,7 @@ This is my free Code Camp tribute page to Johannes Kepler
 +  CSS  
 +  Javascript  
 +  Jquery  
++  Bootstrap  
 
 ###Author
 +  Melissa Kepler a.k.a. Missarachid  
