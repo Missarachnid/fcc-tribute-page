@@ -10,7 +10,7 @@ body {
 .jumbotron {
   background-color: rgba(0, 201, 204, 0.6);
   padding: 40px;
-  border-box: 2px 2px 2px 2px black, -2px -2px 2px 2px black;
+  box-shadow: 2px 2px 2px 2px black, -2px -2px 2px 2px black;
 }
 
 #intro {
