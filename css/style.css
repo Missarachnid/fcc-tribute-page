@@ -45,6 +45,7 @@ ul.center-block.list-group {
 
 .list-group {
   width: 70%;
+  box-shadow: 1px 1px 2px 2px black, -1px -1px 2px 2px black;
 }
 
 blockquote {
