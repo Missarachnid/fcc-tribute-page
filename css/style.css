@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif, Helvetica;
   font-size: 1.8em;
-  background-image: url("https://crossorigin.me/http://imgsrc.hubblesite.org/hu/db/images/hs-2010-13-e-xlarge_web.jpg");
+  background-image: url("../img/hs-2010-13-e-xlarge_web.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: black;
@@ -41,6 +41,7 @@ ul.center-block.list-group {
   border-radius: 50%;
   float: left;
   box-shadow: 1px 1px 2px 2px black, -1px -1px 2px 2px black;
+	margin: 10px 10px 20px 10px;
 }
 
 .list-group {
@@ -50,20 +51,30 @@ ul.center-block.list-group {
 
 blockquote {
   border: none;
+	padding: 0 20px;
 }
 
 .info {
-  padding: 0 0 20px 0;
+  padding: 0 20px 20px 20px;
 }
 
-a {
+.links {
   color: purple;
 }
 
 .footer {
   background: #009799;
-  padding: 20px 0 10px 0;
+  padding: 20px 20px 10px 20px;
   width: inherit;
   border-radius: 0 0 6px 6px;
   box-shadow: 1px 0 1px 1px black;
+	font-size: 14px;
+}
+
+@media (max-width: 510px) {
+	.kepler {
+		float: none;
+		margin: auto auto;
+	}
+
 }
