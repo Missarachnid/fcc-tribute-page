@@ -58,7 +58,7 @@ blockquote {
   padding: 0 20px 20px 20px;
 }
 
-.links {
+.links, .links-outside {
   color: purple;
 }
 
@@ -77,4 +77,16 @@ blockquote {
 		margin: auto auto;
 	}
 
+}
+
+.footer-links{
+  width: 100%;
+  text-align: center;
+}
+
+.links-outside {
+  font-size: 14px;
+  padding: 5px 10px;
+  display: inline-block;
+  margin: 0 10px 0 10px;
 }
