@@ -1,19 +1,19 @@
-#Tribute Page
+# Tribute Page
 This is my free Code Camp tribute page to Johannes Kepler
 
-###Built With
+### Built With
 +  HTML  
 +  CSS  
 +  Javascript  
 +  Jquery  
 +  Bootstrap  
 
-###Author
+### Author
 +  Melissa Kepler a.k.a. Missarachid  
 
-###Acknowledgements
+### Acknowledgements
 +  Free Code Camp
 +  Wikipedia
 +  Johannes Kepler and Weil der Stadt DE
 
-###Project can be seen here: https://missarachnid.github.io/fcc-tribute-page/
+### Project can be seen here: https://missarachnid.github.io/fcc-tribute-page/
